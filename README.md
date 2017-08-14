@@ -1,2 +1,6 @@
 # notasPropeCom
-Apuntes de Clase - Computación [1/4]
+Apuntes de Clase - Computación
+
+[ Grupos A y C ]
+
+Licenciatura en Enfermería
